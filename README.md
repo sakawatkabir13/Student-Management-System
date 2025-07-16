@@ -72,7 +72,7 @@ Student Management System/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/sakawatkabir13/Student-Management-System.git>
 cd student-management-system
 ```
 
@@ -204,7 +204,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support and questions, please contact [your-email@example.com]
+For support and questions, please contact [tanveersakawat13@gmail.com]
 
 ## Screenshots
 
