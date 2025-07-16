@@ -72,7 +72,7 @@ Student Management System/
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/sakawatkabir13/Student-Management-System.git>
+git clone https://github.com/sakawatkabir13/Student-Management-System.git
 cd student-management-system
 ```
 
